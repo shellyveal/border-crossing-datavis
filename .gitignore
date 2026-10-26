@@ -49,5 +49,5 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
-/.csv
-/.DS_Store
+.csv
+.DS_Store
