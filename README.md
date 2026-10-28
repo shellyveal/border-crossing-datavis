@@ -38,20 +38,20 @@ systemfonts
 
 Average yearly entries per port are summarized in the following map:
 
-![U.S. map of border entry ports sized by average yearly entries](individual-figures/map.pdf)
+![U.S. map of border entry ports sized by average yearly entries](individual-figures/map.png)
 
 Entries from Canada and entries from Mexico trends over time are summarized here with high and low points marked distinctly:
 
 <p align="center">
-  <img src="individual-figures/ca_timescale.pdf" alt="U.S.-Canada Entries Timeseries" width="48%">
-  <img src="individual-figures/mx_timescale.pdf" alt="U.S.-Mexico Entries Timeseries" width="48%">
+  <img src="individual-figures/ca_timescale.png" alt="U.S.-Canada Entries Timeseries" width="48%">
+  <img src="individual-figures/mx_timescale.png" alt="U.S.-Mexico Entries Timeseries" width="48%">
 </p>
 
 Likewise, state-by-state comparisons of entries from Canada and Mexico are summarized in these boxplots:
 
 <p align="center">
-  <img src="individual-figures/ca_bp.pdf" alt="State Comparisons U.S.-Canada Entries" width="48%">
-  <img src="individual-figures/mx_bp.pdf" alt="State Comparisons U.S.-Mexico Entries" width="48%">
+  <img src="individual-figures/ca_bp.png" alt="State Comparisons U.S.-Canada Entries" width="48%">
+  <img src="individual-figures/mx_bp.png" alt="State Comparisons U.S.-Mexico Entries" width="48%">
 </p>
 
 ## Findings
