@@ -108,6 +108,6 @@ The resulting comparisons describe the volume and distribution of recorded cross
 
 ### Descriptive patterns do not establish causation
 
-Time-series decomposition can identify trends, recurring seasonal variation, and deviations from expected patterns, but it cannot explain their causes by itself. For example, a change in residuals near September 11, 2001, would not independently demonstrate an effect of subsequent security or immigration policies.
+Time-series decomposition can identify trends, recurring seasonal variation, and deviations from expected patterns, but it cannot explain their causes by itself. For example, though interesting to note, the change in residuals near September 11, 2001, does not independently demonstrate a direct effect of subsequent security or immigration policies.
 
 Establishing such relationships would require additional contextual data, explicit hypotheses, and a research design capable of distinguishing policy effects from other influences, including economic conditions and changes in travel behavior.
