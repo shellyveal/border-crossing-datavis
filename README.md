@@ -50,7 +50,7 @@ Entries from Canada and entries from Mexico trends over time are summarized here
 Likewise, state-by-state comparisons of entries from Canada and Mexico are summarized in these boxplots:
 
 <p align="center">
-  <img src="individual-figures/ca_bp.png" alt="State Comparisons U.S.-Canada Entries" width="48%">
+  <img src="individual-figures/ca_pb.png" alt="State Comparisons U.S.-Canada Entries" width="48%">
   <img src="individual-figures/mx_bp.png" alt="State Comparisons U.S.-Mexico Entries" width="48%">
 </p>
 
